@@ -1,0 +1,22 @@
+.navbar{
+    font-family: 'Nunito', sans-serif;
+    margin-top: 30px;
+    font-size: 19px;
+    margin-left: 80px;
+    margin-right: 84px;
+}
+.nav-link{
+    color: rgb(0, 0, 0);
+}
+.nav-item{
+    padding: 0px 25px;
+    font-weight: 700;
+    
+}
+.login-c{
+    background-color:#f3ef51;
+    border-radius: 30px;
+    width: 110px;
+    text-align: center;
+}
+
